@@ -1,0 +1,9 @@
+funcId = 2, DIM = 2, Precision = 1.000e-08, algId = 'Simple PSO with SA'
+% Population = 10, velocity = random [-5, 5], weight = 1, c1 = 2, c2 = 2, cooling rate = 0.95, temperature = 1000*rand
+data_f2\bbobexp_f2_DIM2.dat, 1:49990|3.3e-03, 2:49990|5.4e-01, 3:49990|7.6e-03, 4:49990|3.5e-02, 5:49990|1.6e-02, 6:49990|3.8e-02, 7:49990|6.9e-02, 8:49990|2.0e-02, 9:49990|2.8e-02, 10:49990|5.3e-03, 11:49990|3.6e-03, 12:49990|4.2e-03, 13:49990|2.8e+01, 14:49990|1.6e-02, 15:49990|1.7e-02
+funcId = 2, DIM = 5, Precision = 1.000e-08, algId = 'Simple PSO with SA'
+% Population = 10, velocity = random [-5, 5], weight = 1, c1 = 2, c2 = 2, cooling rate = 0.95, temperature = 1000*rand
+data_f2\bbobexp_f2_DIM5.dat, 1:49990|3.3e+01, 2:49990|5.8e+02, 3:49990|1.6e+02, 4:49990|9.7e+01, 5:49990|2.3e+02, 6:49990|3.0e+01, 7:49990|1.3e+02, 8:49990|8.2e+03, 9:49990|1.0e+02, 10:49990|1.4e+04, 11:49990|6.1e+01, 12:49990|5.4e+01, 13:49990|1.2e+02, 14:49990|1.5e+02, 15:49990|8.7e+01
+funcId = 2, DIM = 40, Precision = 1.000e-08, algId = 'Simple PSO with SA'
+% Population = 10, velocity = random [-5, 5], weight = 1, c1 = 2, c2 = 2, cooling rate = 0.95, temperature = 1000*rand
+data_f2\bbobexp_f2_DIM40.dat, 1:49990|4.6e+05, 2:49990|6.1e+06, 3:49990|8.2e+06, 4:49990|2.0e+05, 5:49990|6.6e+06, 6:49990|5.5e+06, 7:49990|2.4e+05, 8:49990|2.2e+05, 9:49990|3.4e+05, 10:49990|4.1e+05, 11:49990|3.2e+05, 12:49990|2.7e+05, 13:49990|2.0e+05, 14:49990|9.4e+06, 15:49990|2.1e+05
