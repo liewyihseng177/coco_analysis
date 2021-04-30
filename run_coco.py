@@ -4,6 +4,6 @@ os.system('pip install cocopp')
 import cocopp
 import webbrowser
 
-cocopp.main('DEPSOdatamax50000 SimpleDEdatamax50000')
+cocopp.main('CMA-ES DE DEPSO PSO')
 
 webbrowser.open("file://" + os.getcwd() + "/ppdata/index.html")
